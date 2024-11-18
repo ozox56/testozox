@@ -10,7 +10,7 @@ Bienvenue sur mon site web ! 🎉 Ce projet est une simple page vitrine codée e
 
 ## 📁 Structure du projet
 Voici les principaux fichiers de ce projet :
-- `` : Le fichier principal contenant la structure HTML.
+- `index.html` : Le fichier principal contenant la structure HTML.
 - `style.css` : Le fichier CSS pour le design et la mise en page.
 
 ## 🌐 Visualiser le site
