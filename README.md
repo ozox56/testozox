@@ -10,12 +10,12 @@ Bienvenue sur mon site web ! 🎉 Ce projet est une simple page vitrine codée e
 
 ## 📁 Structure du projet
 Voici les principaux fichiers de ce projet :
-- `index.html` : Le fichier principal contenant la structure HTML.
+- `` : Le fichier principal contenant la structure HTML.
 - `style.css` : Le fichier CSS pour le design et la mise en page.
 
 ## 🌐 Visualiser le site
 [Visitez le site en ligne ici](https://ozoxx08.github.io/ozox56/)
-Merve love you
+Mervem
 
 ## 🛠️ Technologies utilisées
 - **HTML5** pour la structure.
@@ -25,4 +25,3 @@ Merve love you
 1. Clonez ce dépôt sur votre machine locale :
    ```bash
    git clone https://github.com/ozoxx08/ozox56.git
-   
