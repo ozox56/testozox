@@ -15,6 +15,7 @@ Voici les principaux fichiers de ce projet :
 
 ## 🌐 Visualiser le site
 [Visitez le site en ligne ici](https://ozoxx08.github.io/ozox56/)
+Merve love you
 
 ## 🛠️ Technologies utilisées
 - **HTML5** pour la structure.
@@ -24,5 +25,4 @@ Voici les principaux fichiers de ce projet :
 1. Clonez ce dépôt sur votre machine locale :
    ```bash
    git clone https://github.com/ozoxx08/ozox56.git
-   merve je t'aime
    
